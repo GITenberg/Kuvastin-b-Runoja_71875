@@ -1,0 +1,24 @@
+_repo: Kuvastin-b-Runoja_71875
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suoranta, Katri
+    gutenberg_agent_id: '56436'
+    url: http://www.gutenberg.org/2009/agents/56436
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71875'
+language: fi
+pgterms:marc905: 20231009082556suoranta
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bHolger Schildts Kust.Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kuvastin : $b Runoja'
+url: http://www.gutenberg.org/ebooks/71875
